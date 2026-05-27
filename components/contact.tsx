@@ -2,7 +2,7 @@ import { Phone, MapPin, Clock } from "lucide-react"
 
 const contactInfo = [
   { name: "电话", icon: Phone, value: "138-XXXX-XXXX", href: "tel:138XXXXXXXX" },
-  { name: "地址", icon: MapPin, value: "XX市XX区XX路XX号", href: "#" },
+  { name: "地址", icon: MapPin, value: "黑龙江省佳木斯市抚远县", href: "#" },
   { name: "营业时间", icon: Clock, value: "每天 6:00 - 18:00", href: "#" },
 ]
 
