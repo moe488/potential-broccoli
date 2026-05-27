@@ -7,7 +7,6 @@ import { Menu, X } from "lucide-react"
 const navItems = [
   { name: "产品", href: "#products" },
   { name: "关于我们", href: "#about" },
-  { name: "联系", href: "#contact" },
 ]
 
 export function Header() {
