@@ -24,10 +24,10 @@ export function Hero() {
             浏览产品
           </Link>
           <Link
-            href="#contact"
+            href="#about"
             className="inline-flex items-center justify-center px-8 py-4 border border-border text-sm font-medium rounded-lg hover:bg-secondary transition-colors"
           >
-            联系我们
+            了解我们
           </Link>
         </div>
 
